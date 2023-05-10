@@ -1,0 +1,5 @@
+Calculus,major
+Physics,major
+English,elective
+Computer Science,major
+History,elective
